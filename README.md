@@ -14,6 +14,7 @@ Step 1: Initial Access & Enumeration
 After gaining shell access as the cyber user through the web shell, system enumeration began to identify privilege escalation opportunities.
 
 Command: id
+
 Result: Confirmed current user was cyber.
 
 Command: sudo -l
